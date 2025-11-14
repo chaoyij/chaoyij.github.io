@@ -15,11 +15,33 @@ My research centers on advancing the efficiency and scalability of modern machin
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+News
+======
+- 07/07/2025: Our paper [DEL: Context-Aware Dynamic Exit Layer for Efficient Self-Speculative Decoding](https://arxiv.org/abs/2504.05598) has been accepted to [CoLM](https://colmweb.org/) 2025.
+- 07/07/2025: Our paper [LEAF: Lightweight, Efficient, Adaptive and Flexible
+Embedding for Large-Scale Recommendation Models](https://dl.acm.org/doi/pdf/10.1145/3705328.3748078) has been accepted to [RecSys](https://recsys.acm.org/recsys25/) 2025.
+- 05/15/2025: Our paper [KVPR: Efficient LLM Inference with I/O-Aware KV Cache Partial Recomputation](https://arxiv.org/abs/2411.17089) has been accepted to [ACL](https://2025.aclweb.org/) Findings 2025.
+- 12/10/2024: Our paper Efficient LLM Inference with I/O-Aware Partial KV Cache Recomputation has been accepted to the AAAI [SEAS](https://seasworkshop.github.io/aaai25/) Workshop 2025.
+- 09/20/2024: Our paper [CADC: Encoding User-Item Interactions for Compressing Recommendation Model Training Data](https://arxiv.org/abs/2407.08108) has been accepted to [RecSys](https://largeandvideorecsys.github.io/) Workshop 2024.
+
+Teaching Assistant
+======
+- EE599: Systems for Machine Learning (Fall 2023)
+- EE109: Introduction to Embedded Systems (Spring 2024)
+- EE557: Computer Systems Architecture (Fall 2024, Fall 2025)
+- EE508: Hardware Foundations for Machine Learning (Spring 2025)
+
+Volunteer Service
+======
+- Mentorship: USC [CURVE](https://viterbiundergrad.usc.edu/research/curve/) (Summer 2025, Fall 2025)
+
+
+
+
+
+
+<!-- Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
 - [MathJax](https://www.mathjax.org/) for mathematical equations
@@ -57,4 +79,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
