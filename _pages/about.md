@@ -18,6 +18,10 @@ My research centers on advancing the efficiency and scalability of modern machin
 
 News
 ======
+- 04/30/2025: Our paper [DuetServe: Harmonizing Prefill and Decode for LLM Serving via Adaptive GPU Multiplexing](https://arxiv.org/pdf/2511.04791) has been accepted to [ICML](https://icml.cc/) 2026.
+- 04/07/2025: Our paper [DELTA: Dynamic Layer-Aware Token Attention for Efficient Long-Context Reasoning](https://arxiv.org/pdf/2510.09883) has been accepted to [ACL](https://2026.aclweb.org/) 2026.
+- 04/02/2025: Our paper [HuffmanEmbed: Using Huffman Coding for Embedding Table Compression in Deep Learning Recommendation Models] has been accepted to [SIGIR](https://sigir2026.org/en-AU) 2026.
+- 02/28/2025: Our paper [Fast NF4 Dequantization Kernels for Large Language Model Inference](https://arxiv.org/pdf/2604.02556) has been accepted to [EMC2 Workshop](https://www.emc2-ai.org/asplos-26) 2026.
 - 07/07/2025: Our paper [DEL: Context-Aware Dynamic Exit Layer for Efficient Self-Speculative Decoding](https://arxiv.org/abs/2504.05598) has been accepted to [CoLM](https://colmweb.org/) 2025.
 - 07/07/2025: Our paper [LEAF: Lightweight, Efficient, Adaptive and Flexible
 Embedding for Large-Scale Recommendation Models](https://dl.acm.org/doi/pdf/10.1145/3705328.3748078) has been accepted to [RecSys](https://recsys.acm.org/recsys25/) 2025.
@@ -29,12 +33,12 @@ Teaching Assistant
 ======
 - EE599: Systems for Machine Learning (Fall 2023)
 - EE109: Introduction to Embedded Systems (Spring 2024)
-- EE557: Computer Systems Architecture (Fall 2024, Fall 2025)
+- EE557: Computer Systems Architecture (Fall 2024, Fall 2025, Spring 2026)
 - EE508: Hardware Foundations for Machine Learning (Spring 2025)
 
 Volunteer Service
 ======
-- Mentorship: USC [CURVE](https://viterbiundergrad.usc.edu/research/curve/) (Summer 2025, Fall 2025)
+- Mentorship: USC [CURVE](https://viterbiundergrad.usc.edu/research/curve/) (Summer 2025, Fall 2025, Spring 2026)
 
 
 
