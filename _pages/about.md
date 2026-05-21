@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Chaoyi Jiang is a PhD student at the University of Southern California, advised by Prof. Murali Annavaram. I got my bachelor’s degree in Electronic Engineering from Tsinghua University and a master’s degree in Software Engineering from Carnegie Mellon University.
+Chaoyi Jiang is a PhD candidate at the University of Southern California, advised by Prof. Murali Annavaram. I got my bachelor’s degree in Electronic Engineering from Tsinghua University and a master’s degree in Software Engineering from Carnegie Mellon University. I worked at Microsoft as a software engineer in the team of Bing Ads online ranking platform after getting my master's degree.
 
-My research centers on advancing the efficiency and scalability of modern machine learning systems, with a particular focus on large language models (LLMs) and large-scale recommendation systems.
+My research centers on advancing the efficiency and scalability of modern machine learning systems, with a particular focus on efficient training and inference of large language models (LLMs) and large-scale recommendation systems.
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
