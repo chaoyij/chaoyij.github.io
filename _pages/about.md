@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Chaoyi Jiang is a PhD candidate at the University of Southern California, advised by Prof. Murali Annavaram. I got my bachelor’s degree in Electronic Engineering from Tsinghua University and a master’s degree in Software Engineering from Carnegie Mellon University. I worked at Microsoft as a software engineer in the team of Bing Ads online ranking platform after getting my master's degree.
+I am a PhD candidate at the [Ming Hsieh Department of Electrical and Computer Engineering](https://minghsiehece.usc.edu/) at the University of Southern California, advised by [Prof. Murali Annavaram](https://scip-lab.usc.edu/). I received my bachelor's degree in Electronic Engineering from Tsinghua University and my master's degree in Software Engineering from Carnegie Mellon University. After completing my master's, I worked at Microsoft as a software engineer on the Bing Ads online ranking platform team.
 
 My research centers on advancing the efficiency and scalability of modern machine learning systems, with a particular focus on efficient training and inference of large language models (LLMs) and large-scale recommendation systems.
 
